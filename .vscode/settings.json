@@ -1,0 +1,6 @@
+{
+    "dart.analyzerPath": null,
+    "dart.sdkPaths": [
+        "/nodistro/sdk/flutter"
+    ]
+}
